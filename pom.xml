@@ -52,7 +52,7 @@
 	<build>
 		<finalName>maven-web-demo</finalName>
 	</build>
-
+        <!--
 	<repositories>
 
 		<repository>
@@ -112,6 +112,6 @@
 			<url>http://10.10.10.100:30081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
-
+        -->
 
 </project>
