@@ -1,4 +1,4 @@
-FROM 10.10.10.14/xiechuan/tomcat8:1.0.0
+FROM xiechuan/tomcat8:1.0.0
 
 COPY target/maven-web-demo.war /opt/tomcat/webapps/
 
